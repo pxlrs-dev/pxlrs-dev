@@ -1,7 +1,7 @@
 ## Hi there!
 
 <h1 align="center">👋 Welcome to my GitHub Profile!</h1>
-<h3 align="center">I'm a Fullstack TypeScript Dev & DevOps/h3>
+<h3 align="center">I'm a Fullstack TypeScript Dev & DevOps</h3>
 
 
 
