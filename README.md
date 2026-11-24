@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"  alt="Arch" height="40" width="40" style="margin-right:10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitea/gitea-plain.svg" alt="Gitea" height="40" width="40" style="margin-right:10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitea/gitea-original.svg" alt="Gitea" height="40" width="40" style="margin-right:10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" style="margin-right:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nats/nats-plain.svg" alt="NATS" height="40" width="40" style="margin-right:10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-plain.svg" alt="Bun" height="40" width="40" style="margin-right:10px" />
